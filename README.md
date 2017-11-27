@@ -8,5 +8,5 @@ please run:
  python manage.py makemigrations
  python manage.py migrate
 ```
-this step is to 
+this step is to make sql
 
