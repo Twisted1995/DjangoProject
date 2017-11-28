@@ -9,5 +9,4 @@ please run:
  python manage.py migrate
 ```
 this step is to make sql
-for a test
 
