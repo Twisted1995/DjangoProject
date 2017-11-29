@@ -1,5 +1,4 @@
 # -*- coding: utf-8 -*-
-__author__ = 'bobby'
 
 import re
 from django import forms
