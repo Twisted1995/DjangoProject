@@ -10,3 +10,6 @@ please run:
 ```
 this step is to make sql
 
+本项目是通过学习慕课网bobby老师的django+xadmin课程， 全程跟下来的
+
+
